@@ -2,7 +2,7 @@
 
 - 🧰 Sou um desenvolvedor FullStack focado no desenvolvimento com ReactJS e Java Spring.
 - 🎓 Estudo Ciência da Computação na Universidade Federal de Uberlândia.
-- 🛠️ Stack: ReactJs, TypesCript, Jest, Java, Spring Framework, JUnit, SQL, NoSQL, NodeJS...
+- 🛠️ Stack: ReactJs, TypeScript, Jest, Java, Spring Framework, JUnit, SQL, NoSQL, NodeJS...
 - 🎯 Atualmente trabalho como desenvolvedor FullStack Freelancer.
 - 📚 Tenho a busca pelo meu constante aprimoramento, através de contribuições e experiências.
 
