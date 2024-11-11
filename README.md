@@ -1,8 +1,8 @@
 ## Olá, eu sou Fábio Signorini 👋
 
-- 🧰 Sou um desenvolvedor focado em Back-End com Java.
+- 🧰 Sou um desenvolvedor FullStack focado no desenvolvimento com ReactJS e Java Spring.
 - 🎓 Estudo Ciência da Computação na Universidade Federal de Uberlândia.
-- 🛠️ Stack: Java, Spring Framework, JUnit, SQL, NoSQL, NodeJS...
+- 🛠️ Stack: ReactJs, TypesCript, Jest, Java, Spring Framework, JUnit, SQL, NoSQL, NodeJS...
 - 🎯 Atualmente trabalho como desenvolvedor FullStack Freelancer.
 - 📚 Tenho a busca pelo meu constante aprimoramento, através de contribuições e experiências.
 
@@ -11,26 +11,41 @@
     <br>
     <div style="display: inline_block;">
       <img align="center" height="60" width="80"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
+        alt="Fabio-React" />
+      <img align="center" height="60" width="80"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+        alt="Fabio-JavaScript" />
+      <img align="center" height="60" width="80"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+        alt="Fabio-TypeScript" />
+      <img align="center" height="60" width="80"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
+        alt="Fabio-Jest" />
+      <img align="center" height="60" width="80"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+        alt="Fabio-NodeJS" />
+      <img align="center" height="60" width="80"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"
+        alt="Fabio-VueJS" />
+      <img align="center" height="60" width="80"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg"
+        alt="Fabio-Nuxt3" />
+      <img align="center" height="60" width="80"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
         alt="Fabio-Java" />
       <img align="center" height="60" width="80"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
         alt="Fabio-Spring" />
       <img align="center" height="60" width="80"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="Fabio-PostgreSql" />
-      <img align="center" height="60" width="80"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"
         alt="Fabio-Junit5" />
       <img align="center" height="60" width="80"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+        alt="Fabio-PostgreSql" />
+      <img align="center" height="60" width="80"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
         alt="Fabio-MongoDB" />
-      <img align="center" height="60" width="80"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="Fabio-NodeJS" />
-      <img align="center" height="60" width="80"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-        alt="Fabio-JavaScript" />
     </div>
   </div>
 <div>
